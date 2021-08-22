@@ -55,5 +55,10 @@ footer a {
 }
 section {
     padding: 60px;
-    background-image: url("../projects/run-buddy/hero-bg.jpg");
+}
+.hero {
+    background-image: url("hero-bg.jpg");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
 }
